@@ -1,16 +1,38 @@
 ## Hi there 👋
 
-<!--
-**ra1to/ra1to** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Infrastructure & DevOps (Core Focus)**
+- コンテナ: Dockerhub, OrbStack
+- IaC: Terraform
+- CI/CD: GitHub Actions, self-host on Ubuntu, Watchtower
+- Cloud/Server: AWS, Home Server (Linux)
+
+**Backend**
+- Languages: Node.js (TypeScript), Go
+- Database: CockroachDB, PostgreSQL, Supabase
+- ORM: Drizzle ORM
+
+**Frontend**
+- Stack: React , TypeScript
+- Styling: Tailwind CSS
+- Libraries: TanStack (Query/Router)
+
+---
+
+## 🚀 Engineering 
+
+**セルフホスト CI/CD**
+サブPCをサーバー（Ubuntu）にして完全自動デプロイ環境を構築・運用中
+
+**流れ**:
+- Trigger: GitHubへのPushを検知し、GitHub Actionsでテスト・ビルド・Docker HubへのPushを実行
+- Deploy: サーバー側のWatchtowerがレジストリの更新を検知し、稼働中のコンテナをダウンタイム最小限で最新版へ自動置換
+- Next Step: k3s × ArgoCDを用いたGitOpsフローへの移行検証も進行中
+
+**目的**:
+開発サイクルの高速化と実務環境に近いインフラ運用の実践を学習中
+
+---
