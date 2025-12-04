@@ -5,15 +5,14 @@
 ## 🛠 Technical Skills
 
 **Infrastructure & DevOps (Core Focus)**
-- コンテナ: Dockerhub, OrbStack
+- コンテナ: Docker
 - IaC: Terraform
 - CI/CD: GitHub Actions, self-host on Ubuntu, Watchtower
-- Cloud/Server: AWS, Home Server (Linux)
+- Cloud/Server: AWS, Home Server (Ubuntu)
 
 **Backend**
-- Languages: Node.js (TypeScript), Go
+- Languages: Node.js(TypeScript), Go
 - Database: CockroachDB, PostgreSQL, Supabase
-- ORM: Drizzle ORM
 
 **Frontend**
 - Stack: React , TypeScript
