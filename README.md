@@ -17,7 +17,7 @@
 **Frontend**
 - Stack: React , TypeScript
 - Styling: Tailwind CSS
-- Libraries: TanStack (Query/Router)
+- Libraries: TanStack (Query/Router)※学習中
 
 ---
 
@@ -28,8 +28,8 @@
 
 **流れ**:
 - Trigger: GitHubへのPushを検知し、GitHub Actionsでテスト・ビルド・Docker HubへのPushを実行
-- Deploy: サーバー側のWatchtowerがレジストリの更新を検知し、稼働中のコンテナをダウンタイム最小限で最新版へ自動置換
-- Next Step: k3s × ArgoCDを用いたGitOpsフローへの移行検証も進行中
+- Deploy: サーバー側のWatchtowerがDocker Hubの更新を検知し、稼働中のコンテナをダウンタイム最小限で最新版へ自動置換
+- Next Step: k3s × ArgoCDを用いたGitOpsフローへの完全自動化移行も検討中
 
 **目的**:
 開発サイクルの高速化と実務環境に近いインフラ運用の実践を学習中
