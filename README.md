@@ -6,7 +6,7 @@
 
 **Infrastructure & DevOps (Core Focus)**
 - コンテナ: Docker
-- IaC: Terraform
+- IaC: Terraform※学習中
 - CI/CD: GitHub Actions, self-host on Ubuntu, Watchtower
 - Cloud/Server: AWS, Home Server (Ubuntu)
 
@@ -24,7 +24,7 @@
 ## 🚀 Engineering 
 
 **セルフホスト CI/CD**
-サブPCをサーバー（Ubuntu）にして完全自動デプロイ環境を構築・運用中
+サブPCをサーバー（Ubuntu）にして完全自動デプロイ環境を構築を目指している
 
 **流れ**:
 - Trigger: GitHubへのPushを検知し、GitHub Actionsでテスト・ビルド・Docker HubへのPushを実行
