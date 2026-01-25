@@ -5,13 +5,13 @@
 ## 🛠 Technical Skills
 
 **Infrastructure & DevOps (Core Focus)**
-- コンテナ: Docker
+- コンテナ: OrbStack
 - IaC: Terraform※学習中
 - CI/CD: GitHub Actions, self-host on Ubuntu, Watchtower
 - Cloud/Server: AWS, Home Server (Ubuntu)
 
 **Backend**
-- Languages: Node.js(TypeScript), Go
+- Languages: Go※学習中
 - Database: CockroachDB, PostgreSQL, Supabase
 
 **Frontend**
