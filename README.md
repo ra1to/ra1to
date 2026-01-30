@@ -8,16 +8,16 @@
 - コンテナ: OrbStack
 - IaC: Terraform※学習中
 - CI/CD: GitHub Actions, self-host on Ubuntu, Watchtower
-- Cloud/Server: AWS, Home Server (Ubuntu)
+- Cloud/Server: AWS, Home Server (Ubuntu)　※どちらも学習中
+
+**Frontend**
+- Languages: React , TypeScript
+- Styling: Tailwind CSS
+- Libraries: TanStack (Query/Router)※学習中
 
 **Backend**
 - Languages: Go※学習中
-- Database: CockroachDB, PostgreSQL, Supabase
-
-**Frontend**
-- Stack: React , TypeScript
-- Styling: Tailwind CSS
-- Libraries: TanStack (Query/Router)※学習中
+- Database:  PostgreSQL, CockroachDB,　Supabase
 
 ---
 
