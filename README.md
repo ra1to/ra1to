@@ -1,5 +1,5 @@
 ## Hi there 👋
-Ra1to codeで〜〜〜す💻
+
 ---
 
 ## 🛠 Technical Skills
