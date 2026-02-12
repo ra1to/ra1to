@@ -12,9 +12,9 @@
 
 - コンテナ: Docker / OrbStack
 - IaC: Terraform ※学習中
-- OS: Ubuntu, AlmaLinux ※学習予定
+- OS: Ubuntu, AlmaLinux ※どちらも学習中
 - CI/CD: GitHub Actions
-- インフラ: AWS, Home Server (Ubuntu)　※どちらも学習中
+- インフラ: AWS
 
 **Frontend**
 - 言語: TypeScript(React)
