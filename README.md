@@ -1,17 +1,23 @@
 ## Hi there 👋
 
+**目標**
+- 開発サイクルの高速化と実務環境に近いインフラ運用の実践
+- メモリ効率と堅牢生の揮発を学習中
+
+**目的**
+- インフラ/Dev・Opsエンジニアになる
 ---
 
 ## 🛠 Technical Skills
 
-**Infrastructure & DevOps (Core Focus)**
 - コンテナ: Docker / OrbStack
 - IaC: Terraform ※学習中
-- CI/CD: GitHub Actions, self-host on Ubuntu, Watchtower
+- OS: Ubuntu, AlmaLinux ※学習予定
+- CI/CD: GitHub Actions
 - インフラ: AWS, Home Server (Ubuntu)　※どちらも学習中
 
 **Frontend**
-- 言語: React , TypeScript
+- 言語: TypeScript(React)
 - スタイル: Tailwind CSS
 - ライブラリ: TanStack (Query/Router)※学習中
 
@@ -29,8 +35,3 @@
 - トリガー : GitHub Actionsでテスト・ビルド・Docker HubへのPushを実行
 - デプロイ : サーバー側でDocker Hubの更新を検知し、稼働中のコンテナをダウンタイム最小限で最新版へ自動更新
 - 次のステップ : k3s × ArgoCDを用いたGitOpsフローへの完全自動化移行も検討中
-
-**目的**:
-- 開発サイクルの高速化と実務環境に近いインフラ運用の実践
-- メモリ効率と堅牢生の揮発を学習中
----
