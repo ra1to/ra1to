@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 **目標**
-- 開発サイクルの高速化と実務環境に近いインフラ運用の実践
+- インフラ・クラウドの学習
 - メモリ効率と堅牢生のある開発
 
 **目的**
@@ -12,14 +12,14 @@
 
 - コンテナ: Docker / OrbStack
 - IaC: Terraform ※学習中
-- OS: Ubuntu, AlmaLinux ※どちらも学習中
+- OS: Ubuntu, AlmaLinux ※Ubuntuを主に学習中
 - CI/CD: GitHub Actions
-- インフラ: AWS
+- インフラ: AWS, GCP
 
 **Frontend**
-- 言語: TypeScript(React)
+- 言語: TypeScript
 - スタイル: Tailwind CSS
-- ライブラリ: TanStack (Query/Router)※学習中
+- ライブラリ: TanStack (Query/Router)※学習予定
 
 **Backend**
 - 言語: Go※学習中
