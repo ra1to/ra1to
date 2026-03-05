@@ -19,7 +19,7 @@
 **Frontend**
 - 言語: TypeScript
 - スタイル: Tailwind CSS
-- ライブラリ: TanStack (Query/Router)※学習予定
+- ライブラリ: TanStack (Query/Router)※学習中
 
 **Backend**
 - 言語: Go※学習中
