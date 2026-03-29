@@ -17,8 +17,8 @@
 - インフラ: AWS, GCP
 
 **Frontend**
-- 言語: TypeScript
-- スタイル: Tailwind CSS
+- 言語: TypeScript※学習中
+- スタイル: Tailwind CSS※学習中
 - ライブラリ: TanStack (Query/Router)※学習中
 
 **Backend**
